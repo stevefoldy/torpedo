@@ -1,7 +1,0 @@
-C:\Users\foldyistvan\source\repos\Torpedo\Torpedo\obj\Debug\Torpedo.csprojAssemblyReference.cache
-C:\Users\foldyistvan\source\repos\Torpedo\Torpedo\obj\Debug\Torpedo.csproj.CoreCompileInputs.cache
-C:\Users\foldyistvan\source\repos\Torpedo\Torpedo\bin\Debug\Torpedo.exe.config
-C:\Users\foldyistvan\source\repos\Torpedo\Torpedo\bin\Debug\Torpedo.exe
-C:\Users\foldyistvan\source\repos\Torpedo\Torpedo\bin\Debug\Torpedo.pdb
-C:\Users\foldyistvan\source\repos\Torpedo\Torpedo\obj\Debug\Torpedo.exe
-C:\Users\foldyistvan\source\repos\Torpedo\Torpedo\obj\Debug\Torpedo.pdb
